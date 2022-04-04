@@ -1,0 +1,63 @@
+D:\Database\05 Recipes System\RecipesSystem\RecipesSystem\bin\Debug\RecipesSystem.exe.config
+D:\Database\05 Recipes System\RecipesSystem\RecipesSystem\bin\Debug\RecipesSystem.exe
+D:\Database\05 Recipes System\RecipesSystem\RecipesSystem\bin\Debug\RecipesSystem.pdb
+D:\Database\05 Recipes System\RecipesSystem\RecipesSystem\obj\Debug\RecipesSystem.csproj.AssemblyReference.cache
+D:\Database\05 Recipes System\RecipesSystem\RecipesSystem\obj\Debug\RecipesSystem.Properties.Resources.resources
+D:\Database\05 Recipes System\RecipesSystem\RecipesSystem\obj\Debug\RecipesSystem.csproj.GenerateResource.cache
+D:\Database\05 Recipes System\RecipesSystem\RecipesSystem\obj\Debug\RecipesSystem.csproj.CoreCompileInputs.cache
+D:\Database\05 Recipes System\RecipesSystem\RecipesSystem\obj\Debug\RecipesSystem.exe
+D:\Database\05 Recipes System\RecipesSystem\RecipesSystem\obj\Debug\RecipesSystem.pdb
+D:\Database\05 Recipes System\RecipesSystem\RecipesSystem\obj\Debug\RecipesSystem.MainRecipesSystem.resources
+D:\Database\05 Recipes System\RecipesSystem\RecipesSystem\obj\Debug\RecipesSystem.RecipesInput.resources
+D:\Database\05 Recipes System\RecipesSystem\RecipesSystem\obj\Debug\RecipesSystem.CategoriesInput.resources
+D:\Database\05 Recipes System\RecipesSystem\RecipesSystem\obj\Debug\RecipesSystem.IngredientsInput.resources
+D:\Database\05 Recipes System\RecipesSystem\RecipesSystem\obj\Debug\RecipesSystem.RecipesIngredientsInput.resources
+D:\Database\05 Recipes System\RecipesSystem\RecipesSystem\obj\Debug\RecipesSystem.Reports.resources
+E:\Database\05 Recipes System\RecipesSystem\RecipesSystem\bin\Debug\RecipesSystem.exe.config
+E:\Database\05 Recipes System\RecipesSystem\RecipesSystem\bin\Debug\RecipesSystem.exe
+E:\Database\05 Recipes System\RecipesSystem\RecipesSystem\bin\Debug\RecipesSystem.pdb
+E:\Database\05 Recipes System\RecipesSystem\RecipesSystem\obj\Debug\RecipesSystem.csproj.AssemblyReference.cache
+E:\Database\05 Recipes System\RecipesSystem\RecipesSystem\obj\Debug\RecipesSystem.csproj.SuggestedBindingRedirects.cache
+E:\Database\05 Recipes System\RecipesSystem\RecipesSystem\obj\Debug\RecipesSystem.CategoriesInput.resources
+E:\Database\05 Recipes System\RecipesSystem\RecipesSystem\obj\Debug\RecipesSystem.IngredientsInput.resources
+E:\Database\05 Recipes System\RecipesSystem\RecipesSystem\obj\Debug\RecipesSystem.MainRecipesSystem.resources
+E:\Database\05 Recipes System\RecipesSystem\RecipesSystem\obj\Debug\RecipesSystem.Properties.Resources.resources
+E:\Database\05 Recipes System\RecipesSystem\RecipesSystem\obj\Debug\RecipesSystem.RecipesIngredientsInput.resources
+E:\Database\05 Recipes System\RecipesSystem\RecipesSystem\obj\Debug\RecipesSystem.RecipesInput.resources
+E:\Database\05 Recipes System\RecipesSystem\RecipesSystem\obj\Debug\RecipesSystem.Reports.resources
+E:\Database\05 Recipes System\RecipesSystem\RecipesSystem\obj\Debug\RecipesSystem.csproj.GenerateResource.cache
+E:\Database\05 Recipes System\RecipesSystem\RecipesSystem\obj\Debug\RecipesSystem.csproj.CoreCompileInputs.cache
+E:\Database\05 Recipes System\RecipesSystem\RecipesSystem\obj\Debug\RecipesSystem.exe
+E:\Database\05 Recipes System\RecipesSystem\RecipesSystem\obj\Debug\RecipesSystem.pdb
+E:\Class Sections\05 Database\01 Database SQL\05 Recipes System\RecipesSystem\RecipesSystem\bin\Debug\RecipesSystem.exe.config
+E:\Class Sections\05 Database\01 Database SQL\05 Recipes System\RecipesSystem\RecipesSystem\bin\Debug\RecipesSystem.exe
+E:\Class Sections\05 Database\01 Database SQL\05 Recipes System\RecipesSystem\RecipesSystem\bin\Debug\RecipesSystem.pdb
+E:\Class Sections\05 Database\01 Database SQL\05 Recipes System\RecipesSystem\RecipesSystem\obj\Debug\RecipesSystem.csproj.AssemblyReference.cache
+E:\Class Sections\05 Database\01 Database SQL\05 Recipes System\RecipesSystem\RecipesSystem\obj\Debug\RecipesSystem.csproj.SuggestedBindingRedirects.cache
+E:\Class Sections\05 Database\01 Database SQL\05 Recipes System\RecipesSystem\RecipesSystem\obj\Debug\RecipesSystem.CategoriesInput.resources
+E:\Class Sections\05 Database\01 Database SQL\05 Recipes System\RecipesSystem\RecipesSystem\obj\Debug\RecipesSystem.IngredientsInput.resources
+E:\Class Sections\05 Database\01 Database SQL\05 Recipes System\RecipesSystem\RecipesSystem\obj\Debug\RecipesSystem.MainRecipesSystem.resources
+E:\Class Sections\05 Database\01 Database SQL\05 Recipes System\RecipesSystem\RecipesSystem\obj\Debug\RecipesSystem.Properties.Resources.resources
+E:\Class Sections\05 Database\01 Database SQL\05 Recipes System\RecipesSystem\RecipesSystem\obj\Debug\RecipesSystem.RecipesIngredientsInput.resources
+E:\Class Sections\05 Database\01 Database SQL\05 Recipes System\RecipesSystem\RecipesSystem\obj\Debug\RecipesSystem.RecipesInput.resources
+E:\Class Sections\05 Database\01 Database SQL\05 Recipes System\RecipesSystem\RecipesSystem\obj\Debug\RecipesSystem.Reports.resources
+E:\Class Sections\05 Database\01 Database SQL\05 Recipes System\RecipesSystem\RecipesSystem\obj\Debug\RecipesSystem.csproj.GenerateResource.cache
+E:\Class Sections\05 Database\01 Database SQL\05 Recipes System\RecipesSystem\RecipesSystem\obj\Debug\RecipesSystem.csproj.CoreCompileInputs.cache
+E:\Class Sections\05 Database\01 Database SQL\05 Recipes System\RecipesSystem\RecipesSystem\obj\Debug\RecipesSystem.exe
+E:\Class Sections\05 Database\01 Database SQL\05 Recipes System\RecipesSystem\RecipesSystem\obj\Debug\RecipesSystem.pdb
+D:\Class Sections\05 Database\01 Database SQL\05 Recipes System\RecipesSystem\RecipesSystem\bin\Debug\RecipesSystem.exe.config
+D:\Class Sections\05 Database\01 Database SQL\05 Recipes System\RecipesSystem\RecipesSystem\bin\Debug\RecipesSystem.exe
+D:\Class Sections\05 Database\01 Database SQL\05 Recipes System\RecipesSystem\RecipesSystem\bin\Debug\RecipesSystem.pdb
+D:\Class Sections\05 Database\01 Database SQL\05 Recipes System\RecipesSystem\RecipesSystem\obj\Debug\RecipesSystem.csproj.AssemblyReference.cache
+D:\Class Sections\05 Database\01 Database SQL\05 Recipes System\RecipesSystem\RecipesSystem\obj\Debug\RecipesSystem.csproj.SuggestedBindingRedirects.cache
+D:\Class Sections\05 Database\01 Database SQL\05 Recipes System\RecipesSystem\RecipesSystem\obj\Debug\RecipesSystem.CategoriesInput.resources
+D:\Class Sections\05 Database\01 Database SQL\05 Recipes System\RecipesSystem\RecipesSystem\obj\Debug\RecipesSystem.IngredientsInput.resources
+D:\Class Sections\05 Database\01 Database SQL\05 Recipes System\RecipesSystem\RecipesSystem\obj\Debug\RecipesSystem.MainRecipesSystem.resources
+D:\Class Sections\05 Database\01 Database SQL\05 Recipes System\RecipesSystem\RecipesSystem\obj\Debug\RecipesSystem.Properties.Resources.resources
+D:\Class Sections\05 Database\01 Database SQL\05 Recipes System\RecipesSystem\RecipesSystem\obj\Debug\RecipesSystem.RecipesIngredientsInput.resources
+D:\Class Sections\05 Database\01 Database SQL\05 Recipes System\RecipesSystem\RecipesSystem\obj\Debug\RecipesSystem.RecipesInput.resources
+D:\Class Sections\05 Database\01 Database SQL\05 Recipes System\RecipesSystem\RecipesSystem\obj\Debug\RecipesSystem.Reports.resources
+D:\Class Sections\05 Database\01 Database SQL\05 Recipes System\RecipesSystem\RecipesSystem\obj\Debug\RecipesSystem.csproj.GenerateResource.cache
+D:\Class Sections\05 Database\01 Database SQL\05 Recipes System\RecipesSystem\RecipesSystem\obj\Debug\RecipesSystem.csproj.CoreCompileInputs.cache
+D:\Class Sections\05 Database\01 Database SQL\05 Recipes System\RecipesSystem\RecipesSystem\obj\Debug\RecipesSystem.exe
+D:\Class Sections\05 Database\01 Database SQL\05 Recipes System\RecipesSystem\RecipesSystem\obj\Debug\RecipesSystem.pdb
